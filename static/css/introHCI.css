@@ -21,6 +21,7 @@ body {
 	background: none;
 }
 
+
 .jumbotron:after {
      content:"";
      background: url("../images/lorempixel.jumbotron.jpeg");
@@ -40,3 +41,4 @@ body {
 .project a {
      text-align: center;
 }
+
